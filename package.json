@@ -1,0 +1,32 @@
+{
+  "name": "tusd-static-win32",
+  "version": "1.0.0",
+  "description": "Static binaries for the `tusd(1)` command on Windows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/tusd-static-win32.git"
+  },
+  "keywords": [
+    "tusd",
+    "static",
+    "binary",
+    "win32",
+    "bin",
+    "command",
+    "tus"
+  ],
+  "author": "Joseph Werle <werle@littlestar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/little-core-labs/tusd-static-win32/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/tusd-static-win32#readme",
+  "devDependencies": {
+    "tape": "^4.13.2"
+  },
+  "dependencies": {}
+}
